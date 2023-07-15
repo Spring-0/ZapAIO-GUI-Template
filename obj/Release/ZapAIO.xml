@@ -47,14 +47,14 @@ ZapAIO
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
-<member name="P:ZapAIO.My.Resources.Resources.villager">
-<summary>
-  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
-</summary>
-</member>
 <member name="P:ZapAIO.My.Resources.Resources.wallet">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ZapAIO.My.Resources.Resources.welcomeAudio">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
 </summary>
 </member>
 <member name="P:ZapAIO.My.Resources.Resources.zapLogo">
